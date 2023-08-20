@@ -1,8 +1,5 @@
-![image](https://github.com/jppego/ADC/assets/94020768/d2afa178-a71a-4d31-8775-c2dea41ea02f)![image](https://github.com/jppego/ADC/assets/94020768/4bbe4c14-b410-42a6-bc28-5f49f27d3dc5)# ADC
-Project delivered for "Analysis of Complex Data"
-
-# Signal processing
-ECG signal waveform and FFT feature extraction for diagnostic prediction
+# Portuguese Universities Networks
+Networks of Portuguese universities, based on the similarity of MSc thesis keywords
 
 # Introduction 
 This project was delivered for the course unit "Analysis of Complex Data" of the Master in Data Science and Engineering.
